@@ -1,3 +1,2 @@
-import "./application.css";
-
-document.body.insertAdjacentHTML("afterbegin", "Phish is awesome!");
+import "init";
+import "components/page/page";
